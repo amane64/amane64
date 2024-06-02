@@ -8,9 +8,9 @@
 
   ## 🚀 编程习惯
 
-  - 语言：Java、JavaScript
+  - 语言：Java、JavaScript、TypeScript
 
-  - 技术栈：前端（vue3）、后端（spring-boot）
+  - 技术栈：前端（vue3 + ts、uniapp、electron）、后端（spring-boot + mybatis-plus）
 
     <!--其他技能：-->
 
